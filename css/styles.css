@@ -3,7 +3,7 @@ body {
   background: url("../images/giphy.gif"); /*  */
   background-size: ;
   background-position: ;
-  color: black;
+  color: gray;
   /*font-family: helvetica;*/
 }
 p {
@@ -17,4 +17,12 @@ input {
 input[type="submit"] {
   background: red;
   color: black;
+}
+
+a:link {
+  color:white;
+}
+
+a:visited{
+  color:gray;
 }
